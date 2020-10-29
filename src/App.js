@@ -1,6 +1,9 @@
-import './App.css';
+import React from 'react';
+
 import { ThemeProvider } from './provider/ThemeProvider';
 import TestComponent from './TestComponent';
+
+import './App.css';
 
 function App() {
   return (
