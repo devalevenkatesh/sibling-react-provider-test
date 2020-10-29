@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # About this project
 
-This a sinple project testing two react providers as siblings.
+This a simple project testing two react providers as siblings.
 
 Summary: You can use two same providers parallely, check `App.js` under `sibling-react-provider-test/src/App.js`.
 
